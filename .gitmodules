@@ -11,6 +11,9 @@
 [submodule "DirichletMultinomial"]
 	path = DirichletMultinomial
 	url = https://github.com/bioc/DirichletMultinomial
+[submodule "LoriPkgTest2"]
+	path = LoriPkgTest2
+	url = https://github.com/lshep/LoriPkgTest2
 [submodule "Rhtslib"]
 	path = Rhtslib
 	url = https://github.com/bioc/Rhtslib

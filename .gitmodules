@@ -1,5 +1,19 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/tempbioc/tempbioc.r-universe.dev
 	branch = HEAD
+[submodule "Biobase"]
+	path = Biobase
+	url = https://github.com/bioc/Biobase
+[submodule "BiocGenerics"]
+	path = BiocGenerics
+	url = https://github.com/bioc/BiocGenerics
+[submodule "DirichletMultinomial"]
+	path = DirichletMultinomial
+	url = https://github.com/bioc/DirichletMultinomial
+[submodule "Rhtslib"]
+	path = Rhtslib
+	url = https://github.com/bioc/Rhtslib
+[submodule "ontoProc"]
+	path = ontoProc
+	url = https://github.com/bioc/ontoProc

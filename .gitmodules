@@ -17,6 +17,24 @@
 [submodule "OHCA"]
 	path = OHCA
 	url = https://github.com/bioc/OHCA
+[submodule "OSCA"]
+	path = OSCA
+	url = https://github.com/bioc/OSCA
+[submodule "OSCA.advanced"]
+	path = OSCA.advanced
+	url = https://github.com/bioc/OSCA.advanced
+[submodule "OSCA.basic"]
+	path = OSCA.basic
+	url = https://github.com/bioc/OSCA.basic
+[submodule "OSCA.intro"]
+	path = OSCA.intro
+	url = https://github.com/bioc/OSCA.intro
+[submodule "OSCA.multisample"]
+	path = OSCA.multisample
+	url = https://github.com/bioc/OSCA.multisample
+[submodule "OSCA.workflows"]
+	path = OSCA.workflows
+	url = https://github.com/bioc/OSCA.workflows
 [submodule "Rhtslib"]
 	path = Rhtslib
 	url = https://github.com/bioc/Rhtslib

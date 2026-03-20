@@ -38,6 +38,9 @@
 [submodule "OSCA.workflows"]
 	path = OSCA.workflows
 	url = https://github.com/bioc/OSCA.workflows
+[submodule "OSTA"]
+	path = OSTA
+	url = https://github.com/bioc/OSTA
 [submodule "Rhtslib"]
 	path = Rhtslib
 	url = https://github.com/bioc/Rhtslib

@@ -17,6 +17,9 @@
 [submodule "LoriTestPkg4"]
 	path = LoriTestPkg4
 	url = https://github.com/tempbioc/LoriTestPkg4
+[submodule "LoriTestPkg5"]
+	path = LoriTestPkg5
+	url = https://github.com/tempbioc/LoriTestPkg5
 [submodule "OHCA"]
 	path = OHCA
 	url = https://github.com/bioc/OHCA

@@ -13,7 +13,7 @@
 	url = https://github.com/bioc/DirichletMultinomial
 [submodule "LoriPkgTest2"]
 	path = LoriPkgTest2
-	url = https://github.com/lshep/LoriPkgTest2
+	url = https://github.com/tempbioc/LoriPkgTest2
 [submodule "LoriTestPkg4"]
 	path = LoriTestPkg4
 	url = https://github.com/tempbioc/LoriTestPkg4

@@ -11,12 +11,6 @@
 [submodule "DirichletMultinomial"]
 	path = DirichletMultinomial
 	url = https://github.com/bioc/DirichletMultinomial
-[submodule "LoriPkgTest2"]
-	path = LoriPkgTest2
-	url = https://github.com/tempbioc/LoriPkgTest2
-[submodule "LoriTestPkg5"]
-	path = LoriTestPkg5
-	url = https://github.com/tempbioc/LoriTestPkg5
 [submodule "OHCA"]
 	path = OHCA
 	url = https://github.com/bioc/OHCA

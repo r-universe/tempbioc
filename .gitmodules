@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/tempbioc/tempbioc.r-universe.dev
 	branch = HEAD
+[submodule "AHEnsDbs"]
+	path = AHEnsDbs
+	url = https://github.com/bioc/AHEnsDbs
 [submodule "Biobase"]
 	path = Biobase
 	url = https://github.com/bioc/Biobase
@@ -35,9 +38,15 @@
 [submodule "OSTA"]
 	path = OSTA
 	url = https://github.com/bioc/OSTA
+[submodule "RNAseq123"]
+	path = RNAseq123
+	url = https://github.com/bioc/RNAseq123
 [submodule "Rhtslib"]
 	path = Rhtslib
 	url = https://github.com/bioc/Rhtslib
 [submodule "ontoProc"]
 	path = ontoProc
 	url = https://github.com/bioc/ontoProc
+[submodule "yeastNagalakshmi"]
+	path = yeastNagalakshmi
+	url = https://github.com/bioc/yeastNagalakshmi

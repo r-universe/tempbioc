@@ -47,6 +47,9 @@
 [submodule "ontoProc"]
 	path = ontoProc
 	url = https://github.com/bioc/ontoProc
+[submodule "scrapbook"]
+	path = scrapbook
+	url = https://github.com/bioc/scrapbook
 [submodule "yeastNagalakshmi"]
 	path = yeastNagalakshmi
 	url = https://github.com/bioc/yeastNagalakshmi

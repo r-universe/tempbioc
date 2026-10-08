@@ -44,6 +44,9 @@
 [submodule "Rhtslib"]
 	path = Rhtslib
 	url = https://github.com/bioc/Rhtslib
+[submodule "myTestPkg"]
+	path = myTestPkg
+	url = https://github.com/jwokaty/myTestPkg
 [submodule "ontoProc"]
 	path = ontoProc
 	url = https://github.com/bioc/ontoProc
